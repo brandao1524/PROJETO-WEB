@@ -2,10 +2,9 @@
 Projeto web site criado zero para testar conhecimento com alguns comando necessário para manipular estrutura de uma página .
 
 SCRIPT DO PROJETO.
-http://127.0.0.1:5502/SUPERMAN/index.html
 
-![capa](https://user-images.githubusercontent.com/106616102/178157551-5d84742b-f741-474d-88ef-c29090d77dc0.jpg)
-Sinopse
+![Capturar](https://user-images.githubusercontent.com/106616102/178158033-528f6670-8d29-437a-a842-070737f209ed.PNG)
+
 Após anos enfrentando supervilões megalomaníacos, monstros destruidores e invasores alienígenas, o Homem de Aço e a famosa jornalista Lois Lane retornam à idílica cidade de Smallville para criar os filhos adolescentes, Jonathan e Jordan.
 Na estreia da série, Superman e Lois retornam a Smallville para enfrentar um de seus maiores desafios: criar dois meninos sendo pais que trabalham.
 
